@@ -1,0 +1,1 @@
+web: gunicorn herystore.wsgi --log-file -
